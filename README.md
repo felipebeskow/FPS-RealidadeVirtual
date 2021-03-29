@@ -19,3 +19,5 @@
 
 * Nota: 85/10
 * Comentário: "Legal as alterações e novidades. Ficou interessante. Faltou uma armadilha. Faltou som de morte no player."
+
+## [Download do Jogo](https://github.com/felipebeskow/FPS-RealidadeVirtual/releases/download/v0.1.0/Jogo.v0.1.0.zip)
